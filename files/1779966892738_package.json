@@ -1,0 +1,15 @@
+{
+  "name": "shadow-baileys",
+  "version": "1.0.0",
+  "description": "Custom Baileys fork for Shadow MD — drop-in replacement with sendCodeBlock, sendCodeBlockV2, and full helper methods",
+  "main": "index.js",
+  "type": "commonjs",
+  "author": "Shadow MD",
+  "license": "MIT",
+  "keywords": ["baileys", "whatsapp", "shadow-md", "bot"],
+  "dependencies": {
+    "alipclutch-baileys": "latest",
+    "axios": "^1.6.0",
+    "node-fetch": "^2.7.0"
+  }
+}
